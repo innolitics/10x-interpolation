@@ -1,5 +1,7 @@
 # 10x Interpolation Miniproject
 
+This is one of our three-week 10x mini-projects.
+
 ## Background
 
 In a previous [10x discussion](http://innolitics.com/10x/discussions/) we read through the [topical review on medical image registration by Derek L. G. Hill et. al.](http://iopscience.iop.org/article/10.1088/0031-9155/46/3/201/meta).  Section 9, which discussed the proper use of interpolation during registration, was quite interesting.  Section 9 is reproduced below:
@@ -43,6 +45,7 @@ Here are some ideas:
 - Implement sinc interpolation on the GPU using PyOpenGl
 - Any other cool idea you have!
 
+Create a github repo and push your progress so we can share ideas/comments during the three weeks.
 
 ## Example Script
 
